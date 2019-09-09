@@ -6,7 +6,7 @@
 >
 >  https://code.visualstudio.com/ 
 >
-> ![1568027205435](C:\Users\89481\AppData\Roaming\Typora\typora-user-images\1568027205435.png)
+> ![1568027205435](https://github.com/yaody7/ServiceComputingOnCloud/blob/master/HW3/pics/1568027205435.png)
 >
 > 在这个位置，我们应该使用Linux x64选项下的.deb进行下载。
 >
@@ -55,7 +55,7 @@
 > > 1. 从课程网站中给出的链接下载压缩包
 > > 2. 打开终端，并获取root权限
 > >
-> > <img src="C:\Users\89481\AppData\Roaming\Typora\typora-user-images\1568027959728.png" alt="1568027959728" style="zoom:200%;" />
+> > ![1568030135182](https://github.com/yaody7/ServiceComputingOnCloud/blob/master/HW3/pics/1568030135182.png)
 > >
 > > 3. 将安装包解压到/usr/local目录下：
 > >
@@ -99,7 +99,9 @@
 >
 >    `go run hello.go`
 >
->    显示hello,world即为成功
+>    ![1568030189031](https://github.com/yaody7/ServiceComputingOnCloud/blob/master/HW3/pics/1568030189031.png)
+
+
 
 
 
