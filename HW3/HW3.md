@@ -103,9 +103,26 @@
 
 
 
+### 4. 安装gotour
 
+> 在这个网站上下载所需文件
 
-### 4. 实验心得
+> https://bitbucket.org/mikespook/go-tour-zh/downloads/
+
+> 使用git将下面两个仓库clone下来
+
+> https://github.com/golang/tools
+> https://github.com/golang/net
+
+> 打开$GOPATH，并按照如下的结构安排刚才下载的文件
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190912153354816.png)
+
+> 打开go-tour-zh中的gotour并执行`go install`
+
+> 完成后，gotour就会出现在bin中，就代表安装完成了！
+
+### 5. 实验心得
 
 ​	本次实验中，我们为以后的go编程打下了基础——配置了go的运行环境。因为网络的原因，教学网站上的链接总是点不开。所以只好到网上找教程，发现就是要下载一个压缩包，而且这个压缩包可能在国外的服务器上。因为自己的PC机上没有科学上网的条件，我选择了在手机上下载这个压缩包再传回电脑进行解压。可是当我解压缩完成，环境变量也按教程配置好后，运行代码还是出现了bug。没有办法只好使用命令行进行安装了，之后的过程也就顺风顺水，第一个helloworld也顺利跑出来了。
 
