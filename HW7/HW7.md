@@ -156,23 +156,23 @@
 
 > ### register
 >
-> ![1571243061842](C:\Users\89481\AppData\Roaming\Typora\typora-user-images\1571243061842.png)
+> ![1571243061842](https://github.com/yaody7/ServiceComputingOnCloud/blob/master/HW7/pics/1571243061842.png)
 >
-> ![1571243126337](C:\Users\89481\AppData\Roaming\Typora\typora-user-images\1571243126337.png)
+> ![1571243126337](https://github.com/yaody7/ServiceComputingOnCloud/blob/master/HW7/pics/1571243126337.png)
 >
 > ### login
 >
-> ![1571243836942](C:\Users\89481\AppData\Roaming\Typora\typora-user-images\1571243836942.png)
+> ![1571243836942](https://github.com/yaody7/ServiceComputingOnCloud/blob/master/HW7/pics/1571243836942.png)
 >
-> ![1571244373127](C:\Users\89481\AppData\Roaming\Typora\typora-user-images\1571244373127.png)
+> ![1571244373127](https://github.com/yaody7/ServiceComputingOnCloud/blob/master/HW7/pics/1571244373127.png)
 >
 > 
 >
 > ### logout
 >
-> ![1571244490296](C:\Users\89481\AppData\Roaming\Typora\typora-user-images\1571244490296.png)
+> ![1571244490296](https://github.com/yaody7/ServiceComputingOnCloud/blob/master/HW7/pics/1571244490296.png)
 >
-> ![1571244498701](C:\Users\89481\AppData\Roaming\Typora\typora-user-images\1571244498701.png)
+> ![1571244498701](https://github.com/yaody7/ServiceComputingOnCloud/blob/master/HW7/pics/1571244498701.png)
 
 
 
