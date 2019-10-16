@@ -125,30 +125,30 @@
 > 
 > ### logout
 > 
-> logout是最简单的一部分，我们只需更改 **currentUser.txt** 里的信息为 **no one** 即可。
-> 
-> **具体代码如下：**
-> 
-> ```go
-> var logoutCmd = &cobra.Command{
-> 	Use:   "logout",
-> 	Short: "logout",
-> 	Long:  `logout the agenda`,
-> 	Run: func(cmd *cobra.Command, args []string) {
-> //	init()
-> 
-> 	f,_:=os.OpenFile("currentUser.txt",os.O_RDWR|os.O_CREATE|os.O_TRUNC,0644)
-> 
-> 
-> 	defer f.Close()
-> 	data:=[]byte("no one")
-> 	f.Write(data)
-> 	fmt.Println("No one login now!")
-> 		
-> 	},
-> }
-> 
-> ```
+> >  logout是最简单的一部分，我们只需更改 **currentUser.txt** 里的信息为 **no one** 即可。
+> >
+> > **具体代码如下：**
+> >
+> > ```go
+> > var logoutCmd = &cobra.Command{
+> > 	Use:   "logout",
+> > 	Short: "logout",
+> > 	Long:  `logout the agenda`,
+> > 	Run: func(cmd *cobra.Command, args []string) {
+> > //	init()
+> > 
+> > 	f,_:=os.OpenFile("currentUser.txt",os.O_RDWR|os.O_CREATE|os.O_TRUNC,0644)
+> > 
+> > 
+> > 	defer f.Close()
+> > 	data:=[]byte("no one")
+> > 	f.Write(data)
+> > 	fmt.Println("No one login now!")
+> > 		
+> > 	},
+> > }
+> > 
+> > ```
 
 
 
