@@ -79,7 +79,7 @@
 
 ### 效果展示
 
-![1573006706078](C:\Users\89481\AppData\Roaming\Typora\typora-user-images\1573006706078.png)
+![1573006706078](https://github.com/yaody7/ServiceComputingOnCloud/blob/master/HW9/效果展示.png)
 
 
 
