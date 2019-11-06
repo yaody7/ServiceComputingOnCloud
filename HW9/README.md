@@ -6,7 +6,7 @@ Negroni是一个很好用的框架，其中间件框架十分清晰。我们只�
 
 ## curl测试
 
-![1573006706078](https://github.com/yaody7/ServiceComputingOnCloud/blob/master/HW9/效果展示.png)
+![1573006706078](https://github.com/yaody7/ServiceComputingOnCloud/blob/master/HW9/pic.png)
 
 
 
